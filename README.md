@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shakti2302
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shakti Swarup Dash
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning Full-Stack Development from Besant Technologies
+
+
 
 <!---
 Shakti2302/Shakti2302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
